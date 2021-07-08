@@ -22,28 +22,37 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Postdoctoral researcher
+    company: International Clinical Research Center, St. Anne's University Hospital Brno
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Brno, Czech Republic
+    date_start: '2018-01-11'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+    description: Cellular and Molecular Immunoregulation group - head Dr. Jan Frič
+
+  - title: Doctoral student
+    company: University of Udine, Faculty of Medicine
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Udine, Italy
+    date_start: '2014-11-01'
+    date_end: '2017-10-31'
+    description: Laboratory of Immunology - head Prof. Carlo E.M. Pucillo
+
+  - title: Visiting Student
+    company: Gent University, Faculty of Bioscience Engineering
+    location: Gent, Belgium
+    date_start: '2014-02-01'
+    date_end: '2014-07-30'
+    description: SynBioC Laboratory - head Prof. Sven Mangelinckx
+
+  - title: Undergraduate researcher
+    company: University of Padova, Department of Biotechnology
+    location: Padova, Italy
+    date_start: '2013-08-20'
+    date_end: '2014-09-12'
+    description: Laboratory Dr. Paola Venier
 
 design:
   columns: '2'
