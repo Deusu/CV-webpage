@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: marco.de.zuani@fnusa.cz
 address:
   street: Studentská 6
   city: Brno
@@ -30,7 +30,6 @@ address:
 coordinates:
   latitude: '49.1784744'
   longitude: '16.5723953'
-directions: Second Floor
 
 contact_links:
   - icon: twitter
