@@ -32,7 +32,7 @@ item:
   title: AZV junior grant
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url:
-  date_end: "2021-10-31"
+  date_end: "2021-10-30"
   date_start: "2019-11-O1"
   description: Individual postdoctoral fellowship awarded by OP VVV on Marie Skłodowska-Curie Action IF proposals.
   organization: OP VVV
@@ -41,5 +41,5 @@ item:
   url: ""
 
 design:
-  columns: '2' 
+  columns: '2'
 ---
