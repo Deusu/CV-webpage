@@ -36,10 +36,6 @@ contact_links:
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/el_deusu'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:dez_one?call'
 
 
 # Site header
