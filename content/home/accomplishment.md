@@ -1,6 +1,7 @@
 ---
 widget: accomplishments
 headless: true  # This file represents a page section.
+activate: false
 
 # ... Put Your Section Options Here (title etc.) ...
 
