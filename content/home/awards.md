@@ -25,8 +25,8 @@ date_format: Jan 2006
 item:
 - certificate_url:
   date_start: '2021-05-01'
-  #date_end: ''
-  description: Trained immunity as a tool to protect against microbial and SARS-CoV-2 severe pneumonia, ~350k €
+  date_end: '2024-12-31'
+  description: Project title: "Trained immunity as a tool to protect against microbial and SARS-CoV-2 severe pneumonia", budget: ~350k €
   organization: Czech Health Research Council
   organization_url: 'http://www.azvcr.cz'
   title: AZV junior grant
