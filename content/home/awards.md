@@ -28,17 +28,17 @@ item:
   #date_end: ''
   description: Trained immunity as a tool to protect against microbial and SARS-CoV-2 severe pneumonia, ~350k €
   organization: Czech Health Research Council
-  organization_url: http://www.azvcr.cz
+  organization_url: 'http://www.azvcr.cz'
   title: AZV junior grant
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  #url: 'https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals'
 - certificate_url:
-  date_start: '2021-05-01'
-  #date_end: ''
+  date_start: '2019-11-01'
+  date_end: '2021-10-31'
   description: Individual postdoctoral fellowship awarded by OP VVV on Marie Skłodowska-Curie Action IF proposals.
   organization: OP VVV
-  organization_url: https://opvvv.msmt.cz
+  organization_url: 'https://opvvv.msmt.cz'
   title: Fellowship - International Research Mobility MCSA-IF III
-  url: ""
+  #url: ""
 
 design:
   columns: '2'
