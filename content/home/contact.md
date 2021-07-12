@@ -4,7 +4,7 @@
 widget: contact
 
 #activate widget?
-activate: false
+active: true
 
 # This file represents a page section.
 headless: true
