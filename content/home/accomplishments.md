@@ -24,16 +24,16 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url:
-  date_end: "2024/12/31"
   date_start: "2021/05/01"
+  date_end: "2024/12/31"
   description: Trained immunity as a tool to protect against microbial and SARS-CoV-2 severe pneumonia, ~350k €
   organization: Czech Health Research Council
   organization_url: http://www.azvcr.cz
   title: AZV junior grant
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url:
-  date_end: ""
   date_start: ""
+  date_end: ""
   description: Individual postdoctoral fellowship awarded by OP VVV on Marie Skłodowska-Curie Action IF proposals.
   organization: OP VVV
   organization_url: https://opvvv.msmt.cz
