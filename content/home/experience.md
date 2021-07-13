@@ -25,7 +25,7 @@ experience:
   - title: Postdoctoral researcher
     company: International Clinical Research Center, St. Anne's University Hospital Brno
     company_url: ''
-    company_logo: org-gc
+    company_logo: ICRC_logo.png
     location: Brno, Czech Republic
     date_start: '2018-01-11'
     date_end: ''
@@ -34,7 +34,7 @@ experience:
   - title: Doctoral student
     company: University of Udine, Faculty of Medicine
     company_url: ''
-    company_logo: org-x
+    company_logo: uniud_logo.png
     location: Udine, Italy
     date_start: '2014-11-01'
     date_end: '2017-10-31'
@@ -43,6 +43,7 @@ experience:
   - title: Visiting Student
     company: Gent University, Faculty of Bioscience Engineering
     location: Gent, Belgium
+    company_logo: ugent_logo.jpg
     date_start: '2014-02-01'
     date_end: '2014-07-30'
     description: SynBioC Laboratory - head Prof. Sven Mangelinckx
@@ -50,6 +51,7 @@ experience:
   - title: Undergraduate researcher
     company: University of Padova, Department of Biotechnology
     location: Padova, Italy
+    company_logo: UNIPD_logo.png
     date_start: '2013-08-20'
     date_end: '2014-09-12'
     description: Laboratory Dr. Paola Venier
