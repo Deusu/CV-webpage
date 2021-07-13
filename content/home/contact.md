@@ -16,7 +16,6 @@ title: Contact
 subtitle:
 
 content:
-contact_links:
   - icon: paper-plane
     icon_pack: fas
     name: e-mail me
@@ -28,7 +27,7 @@ contact_links:
   - icon: map-marked-alt
     icon_pack: fas
     name: Biology Park - Studentská 6, Brno, Czech Republic
-    
+
 
 
 
