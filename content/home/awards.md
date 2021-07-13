@@ -36,7 +36,7 @@ item:
   date_start: '2019-11-01'
   date_end: '2021-10-31'
   description: Individual postdoctoral fellowship awarded by OP VVV on Marie Skłodowska-Curie Action IF proposals.
-  organization: OP VVV
+  organization: Czech Ministry of Education, Youth and sport - OP VVV
   organization_url: 'https://opvvv.msmt.cz'
   title: Fellowship - International Research Mobility MCSA-IF III
   #url: ""

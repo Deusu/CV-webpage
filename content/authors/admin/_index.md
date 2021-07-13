@@ -4,7 +4,10 @@ role: Postdoctoral researcher
 bio: ""
 interests:
   - Haematopoietic stem cells
-  -
+  - Myeloid cell differentiation
+  - Innate immune memory
+  - Bioinformatics
+
 social:
   - icon: envelope
     icon_pack: fas
@@ -40,6 +43,4 @@ superuser: true
 highlight_name: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Post-doctoral researcher with a strong interest in myeloid cell biology, hematopoietic stem cell differentiation and innate immune memory. Flow-cytometry and bioinformatics enthusiast!
