@@ -4,7 +4,7 @@
 widget: blank
 
 #activate widget?
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
@@ -31,6 +31,10 @@ content:
 
 
 
+
+
 design:
   columns: '2'
 ---
+
+See my name? click on it!
