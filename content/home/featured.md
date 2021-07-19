@@ -21,7 +21,7 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: ""
+    author: "M. De Zuani"
     category: ""
     publication_type: ""
     tag: ""
