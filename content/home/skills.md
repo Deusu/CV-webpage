@@ -17,10 +17,6 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description:
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description:
   icon: disease
   icon_pack: fas
   name: Flow cytometry
@@ -28,6 +24,22 @@ feature:
   icon: dna
   icon_pack: fas
   name: RNAseq
+- description:
+  icon: vial
+  icon_pack: fas
+  name: Patient-derived sample processing
+- description:
+  icon: flask
+  icon_pack: fas
+  name: Primary cell culture
+- description:
+  icon: atom
+  icon_pack: fas
+  name: Molecular biology
+- description:
+  icon: r-project
+  icon_pack: fab
+  name: R
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

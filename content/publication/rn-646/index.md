@@ -4,7 +4,7 @@
 title: Human myeloid-derived suppressor cell expansion during sepsis is revealed by
   unsupervised clustering of flow cytometric data
 subtitle: ''
-summary: ''
+summary: 'Myeloid derived suppressor cells (MDSCs) are important regulators of immune processes during sepsis in mice. However, confirming these observations in humans has been challenging due to the lack of defined preparation protocols and phenotyping schemes for MDSC subsets. Thus, it remains unclear how MDSCs are involved in acute sepsis and whether they have a role in the long‐term complications seen in survivors. Here, we combined comprehensive flow cytometry phenotyping with unsupervised clustering using self‐organizing maps to identify the three recently‐defined human MDSC subsets in blood from severe sepsis patients, long‐term sepsis survivors, and age‐matched controls. We demonstrated the expansion of monocytic M‐MDSCs and polymorphonuclear PMN‐MDSCs, but not early‐stage (e)‐MDSCs during acute sepsis. High levels of PMN‐MDSCs were also present in long‐term survivors many months after discharge, suggesting a possible role in sepsis‐related complications. Altogether, by employing unsupervised clustering of flow cytometric data we have confirmed the likely involvement of human MDSC subsets in acute sepsis, and revealed their expansion in sepsis survivors at late timepoints. The application of this strategy in future studies and in the clinical/diagnostic context would enable rapid progress towards a full understanding of the roles of MDSC in sepsis and other inflammatory conditions.'
 authors:
 - M. De Zuani
 - M. Hortova-Kohoutkova
@@ -17,7 +17,7 @@ tags: []
 categories: []
 date: '2021-01-01'
 lastmod: 2021-07-16T18:46:28+02:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -25,7 +25,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: ''
+  focal_point: 'Smart'
   preview_only: false
 
 # Projects (optional).

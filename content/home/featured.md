@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
 
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -21,10 +21,10 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: "M. De Zuani"
-    category: ""
-    publication_type: ""
-    tag: ""
+    author: ''
+    category: ''
+    publication_type: ''
+    tag: ''
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
