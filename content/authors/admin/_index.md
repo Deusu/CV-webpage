@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/marco-de-zuani/?locale=en_US
 organizations:
-  - name: International Clinical Research Center
-    url: https://www.fnusa-icrc.org/en/home-2/
+  - name: University of Cambridge
+    url: http://www.haem.cam.ac.uk/
 education:
   courses:
     - course: PhD in Biomedical Sciences and Biotechnology

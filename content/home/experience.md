@@ -22,13 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postdoctoral fellow
+    company: University of Cambridge
+    company_url: ''
+    #company_logo: ICRC_logo
+    location: Cambridge, UK
+    date_start: '2022-01-12'
+    date_end: ''
+    description: Department of Haematology - head Dr. Ana Cvejic
+
   - title: Postdoctoral researcher
     company: International Clinical Research Center, St. Anne's University Hospital Brno
     company_url: ''
     #company_logo: ICRC_logo
     location: Brno, Czech Republic
     date_start: '2018-01-11'
-    date_end: ''
+    date_end: '2021-12-31'
     description: Cellular and Molecular Immunoregulation group - head Dr. Jan Frič
 
   - title: Doctoral student
