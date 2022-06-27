@@ -23,13 +23,23 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postdoctoral fellow
-    company: University of Cambridge
+    company: Wellcome Sanger Institute
     company_url: ''
     #company_logo: ICRC_logo
     location: Cambridge, UK
     date_start: '2022-01-12'
     date_end: ''
     description: Department of Haematology - head Dr. Ana Cvejic
+
+  - title: Visiting researcher
+    company: Science fo Life Laboratory, Stockholm University
+    company_url: ''
+    #company_logo: ICRC_logo
+    location: Stockholm, Sweden
+    date_start: '2022-06'
+    date_end: '2022-06'
+    description: Molecular diagnostic team - head Prof. Mats Nillson
+
 
   - title: Postdoctoral researcher
     company: International Clinical Research Center, St. Anne's University Hospital Brno

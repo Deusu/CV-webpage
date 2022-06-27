@@ -44,3 +44,4 @@ highlight_name: false
 ---
 
 Post-doctoral researcher with a strong interest in myeloid cell biology, hematopoietic stem cell differentiation and innate immune memory. Flow-cytometry and bioinformatics enthusiast!
+Currently harnessing single-cell and spatial transcriptomics to unravel tumour heterogeneity and foetal haemetopoiesis.
